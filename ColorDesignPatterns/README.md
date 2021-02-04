@@ -1,4 +1,4 @@
-This is a console based java implementation of certain below mentioned functionalities using design patterns.
+This is a console based java implementation of certain below mentioned functionalities using design patterns
 
 ### Functionalities:
   1) +x - subscribe for x. x can take the following values- apple, banana, salt, ink, blood, sky, frog.
